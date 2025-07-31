@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
+    "baseUrl": "src",
     "paths": {
-      "@/*": ["./src/*"]
-    }
+      "@/": [""]
+    },
+    "jsx": "preserve",
+    "jsxImportSource": "react",
+    "allowJs": true
   }
 }
