@@ -1,0 +1,14 @@
+# AI Usage Report – ADmyBRAND Dashboard
+
+## Tools Used
+- ChatGPT (OpenAI)
+- Recharts Documentation
+- Next.js Docs
+
+## How AI Was Used
+- Generated initial boilerplate code
+- Helped debug import/export errors
+- Provided step-by-step guidance for charts integration
+
+## Outcome
+- Fully functional Next.js dashboard deployed on Vercel
